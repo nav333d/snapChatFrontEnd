@@ -20,7 +20,7 @@
     "react-native-gesture-handler": "^1.5.3",
     "react-native-picker-view": "^1.0.6",
     "react-native-progress-circle": "^2.1.0",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-vector-icons": "^6.6.0",
     "react-native-video": "^5.0.2",
     "react-navigation": "^3.6.1",
